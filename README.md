@@ -2,6 +2,11 @@
 
 This is a repository created for the Deep Learning course of period 2A, 2020. Questions should be posted here as issues so that any of the TA's are be able to answer them, and all the students can benefit from a solved question.
 
+## Table of contents
+
+**[Info about practicals](#info-about-practicals)**<br>
+**[Tutorials and documentation](#tutorials-and-documentation)**<br>
+
 ## Info about practicals
 
 There will be 2 practicals. The first practical will be done in groups of 2 students and counts for 35% of the practical grade. The second practical will be done in groups of 4 (not more or less) students and will count for 65% of the final practical grade.
