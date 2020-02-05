@@ -1,10 +1,15 @@
 # DL-2020
 
-This is a repository created for the Deep Learning course of period 2A, 2020. Questions should be posted here as issues so that any of the TA's are be able to answer them, and all the students can benefit from a solved question.
+This is a repository created for the course Deep Learning. It is a place where students can ask for help with the projects or ask general questions to the TAs.
+
+Questions should be posted in the *issues* section. We use this approach so that anyone can benefit from an answered question. Before placing a new *issue*, please check that your problem is not already solved.
+
+Additionally, we will try to provide you with some useful tutorials and sample code that might help you with your projects, specially if this is your first time using deep learning frameworks.
 
 ## Table of contents
 
 **[Info about practicals](#info-about-practicals)**<br>
+**[How to raise issues (asking questions)](#how-to-raise-issues)**<br>
 **[Tutorials and documentation](#tutorials-and-documentation)**<br>
 
 ## Info about practicals
@@ -39,6 +44,16 @@ For the second practical, groups (of 4 students) will work together to create th
 8) Similar topics or ask the lecturer Marco Wiering
 
 For the second practical, you need to send a proposal of 1 page before 20 February 2020, 23.59h with the following information: informative title, names + stud. numbers of 4 group members, programming environment (e.g. Keras), short description of the project, datasets / simulator used. At the end, the group writes a report and presents their research.
+
+## How to raise issues
+
+You can check all the solved questions and ask new ones [here](https://github.com/RUG-DeepLearning/DL-2020/issues)
+
+To create a new issue, just click on the green *New issue* button at the right, write a short and identifiable question title, and then elaborate your problem(s) below.
+
+If we see that a problem has been succefully solved we might close the issue. You can still view closed issues by filtering the issues by *Closed*, or by clicking [here](https://github.com/RUG-DeepLearning/DL-2020/issues?q=is%3Aissue+is%3Aclosed).
+
+If for some reason you can't raise an issue or you'd prefer not to make it public, you can always contact us by email.
 
 ## Tutorials and documentation
 
