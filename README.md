@@ -2,7 +2,7 @@
 
 This is a repository created for the course Deep Learning. It is a place where students can ask for help with the projects or ask general questions to the TAs.
 
-Questions should be posted in the *issues* section. We use this approach so that anyone can benefit from an answered question. Before placing a new *issue*, please check that your problem is not already solved.
+Questions should be posted in the *issues* section. We use this approach so that anyone can benefit from an answered question. Before placing a new *issue*, please check that your problem hasn't been solved before.
 
 Additionally, we will try to provide you with some useful tutorials and sample code that might help you with your projects, specially if this is your first time using deep learning frameworks.
 
@@ -49,7 +49,7 @@ For the second practical, you need to send a proposal of 1 page before 20 Februa
 
 You can check all the solved questions and ask new ones [here](https://github.com/RUG-DeepLearning/DL-2020/issues)
 
-To create a new issue, just click on the green *New issue* button at the right, write a short and identifiable question title, and then elaborate your problem(s) below.
+To create a new issue, just click on the green *New issue* button on the right, write a short and identifiable question title, and then elaborate your problem(s) below.
 
 If we see that a problem has been succefully solved we might close the issue. You can still view closed issues by filtering the issues by *Closed*, or by clicking [here](https://github.com/RUG-DeepLearning/DL-2020/issues?q=is%3Aissue+is%3Aclosed).
 
