@@ -26,7 +26,7 @@ In the first practical each group (of 2 students) will choose an image dataset a
 
 Each group can do as many comparison studies as they want and write a report with a short description and tables / figures with results. The final report should be at most 3 pages in length. It is advised to not use a very large dataset (e.g. > 200,000 examples), as this would cost too much computational time.
 
-For your report, you need to use the style-file which can be downloaded from: https://bnaic2014.org/?page_id=49
+For your report, you need to use the style-file which can be downloaded from: <https://bnaic2014.org/?page_id=49>
 
 The deadline for mailing your report to m.a.wiering@rug.nl and (a link to) your code is: 28 February 2020, 23.59h
 
@@ -57,10 +57,28 @@ If for some reason you can't raise an issue or you'd prefer not to make it publi
 
 ## Tutorials and documentation
 
-Image classification tutorial: https://www.tensorflow.org/tutorials/images/hub_with_keras
+Image classification tutorial: <https://www.tensorflow.org/tutorials/images/hub_with_keras>
 
-Pytorch: https://pytorch.org/tutorials/
+Pytorch: <https://pytorch.org/tutorials/>
 
-Pre-trained models that can be used for deep transfer learning: https://keras.io/applications/
+Pre-trained models that can be used for deep transfer learning: <https://keras.io/applications/>
 
-There are a lot of good blogs/tutorials online that could be helpful. As an example, a step-by-step tutorial for image classification is available here: https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/
+There are a lot of good blogs/tutorials online that could be helpful. As an example, a step-by-step tutorial for image classification is available here: <https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/>
+
+### Datasets and Data Loaders
+
+For the 1st assignment we recommend that you use one of the datasets available as a function call in the framework of your choosing. For example, if you use Keras ([doc](https://keras.io/datasets/)):
+
+```python
+from keras.datasets import cifar10
+
+(x_train, y_train), (x_test, y_test) = cifar10.load_data()
+```
+
+This will save you some time, which you can then use to tune hyperparameters or try different combinations with your models.
+
+If you specifically want to use a custom dataset for the 1st assignment, or later in the 2nd assignment, you might want to consider the use of data loaders. All frameworks provide ways of loading data from disk in batches. This will be very helpful if your PC's memory is not big enough and you use a big dataset that won't fit in the memory. It also allows you to perform data augmentation on-the-go which you might also want to use for your application.
+
+[Tensorflow (Keras) data loader tutorial](https://www.tensorflow.org/tutorials/load_data/images)
+
+[PyTorch data loader tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
