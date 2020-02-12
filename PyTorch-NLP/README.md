@@ -7,7 +7,7 @@ The Into notebook works as a heavy intro to the PyTorch toolbox. It starts with 
 
 The POS-RNN notebook is aimed at explaining the workings of RNNs, as well as how to apply them for extracting part-of-speech tags on real language data. It includes all steps that are found in any deep learning pipeline for NLP (data preparation, word embeddings, training and validation of the RNN model etc.).
 
-Extentions of the RNN model, the sequence-to-sequence encoder-decoder architectures (`seq2seq.pdg`), as well as self-attention architectures exploiting only parallel operations on language data (`attn.pdf`) are currently the state-of-the-art in any NLP task (machine translation, text generation, dialogue systems etc.) and is probably the place to go if you choose to do your second practical project in deep learning for NLP. We will try to add a new notebook for an intro to self-attention, but a very detailed tutorial is ["The Annotated Transformer"](https://nlp.seas.harvard.edu/2018/04/03/attention.html).
+Extentions of the RNN model, the [sequence-to-sequence](https://arxiv.org/abs/1409.3215) encoder-decoder architectures, as well as the [Transformer](https://arxiv.org/abs/1706.03762) architecture, are currently the state-of-the-art in any NLP task (machine translation, text generation, dialogue systems etc.) and is probably the place to go if you choose to do your second practical project in deep learning for NLP. We will try to add a new notebook for an intro to self-attention, but a very detailed tutorial is ["The Annotated Transformer"](https://nlp.seas.harvard.edu/2018/04/03/attention.html).
 
 All content of these tutorials was made by the fellow student Konstantinos Kogkalidis, Utrecht University, 2018-2019. 
 
