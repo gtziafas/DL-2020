@@ -1,7 +1,7 @@
 
 # PyTorch Tutorials
 
-You will find here two Jupyter Notebooks, one containing an introduction to the PyTorch deep learning framework and one using PyTorch to train a Recurrent Neural Network (RNN) model on real language data for the task of Part-Of-Speech (POS) tagging. You can find more about this task, along with papers for all tasks conserned in Natural Language Processing (NLP), in [NLPProgress](http://nlpprogress.com/english/)
+You will find here two Jupyter Notebooks, one containing an introduction to the PyTorch deep learning framework and one using PyTorch to train a Recurrent Neural Network (RNN) model on real language data for the task of Part-Of-Speech (POS) tagging. You can find more about this task, along with papers for all tasks conserned in Natural Language Processing (NLP), in [NLPProgress](http://nlpprogress.com/)
 
 The Into notebook works as a heavy intro to the PyTorch toolbox. It starts with an introduction to tensor processing (as an extention of array processing with the `numpy` module) and it proceeds with the mechanics of PyTorch concerning automatic differentiation, loss functions, gradient-descent based optimization and feed-forward neural network models. It is a usefull low-level walkthrough throughout the `torch.tensor, torch.autograd, torch.nn, torch.data`, which are the core modules of PyTorch.
 
