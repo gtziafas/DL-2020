@@ -9,5 +9,5 @@ The POS-RNN notebook is aimed at explaining the workings of RNNs, as well as how
 
 Extentions of the RNN model, the [sequence-to-sequence](https://arxiv.org/abs/1409.3215) encoder-decoder architectures, as well as the [Transformer](https://arxiv.org/abs/1706.03762) architecture, are currently the state-of-the-art in any NLP task (machine translation, text generation, dialogue systems etc.) and is probably the place to go if you choose to do your second practical project in deep learning for NLP. We will try to add a new notebook for an intro to self-attention, but a very detailed tutorial is ["The Annotated Transformer"](https://nlp.seas.harvard.edu/2018/04/03/attention.html).
 
-All content of these tutorials was made by the fellow student Konstantinos Kogkalidis, Utrecht University, 2018-2019. 
+All content of these tutorials was made by the fellow student Konstantinos Kogkalidis, 2018-2019. 
 
